@@ -1,0 +1,24 @@
+.content {
+    min-height: calc(100vh - 70px);
+  }
+  .footer {
+    height: 47px;
+  }
+  footer {
+    background: rgb(192, 35, 7);
+    color: rgb(0, 0, 0);
+    line-height: 46px;
+    padding: 0 20px;
+  }
+
+  #carouselExampleIndicators {
+    width: 40%;
+    margin: auto;
+  }
+
+  .cardx {
+    border-width: 0px;
+  }
+  .row > div p{
+   padding: 10px;
+  }
